@@ -1,0 +1,9 @@
+{
+    "name": "Lethal Sound Mod",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Cool sound mod.",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}

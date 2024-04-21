@@ -1,6 +1,4 @@
-
-
-# KKonaModPack - Sound mod for Lethal Company.
+# Sound mod for Lethal Company.
 ## This mod replaces some sounds in Lethal.
 
 
